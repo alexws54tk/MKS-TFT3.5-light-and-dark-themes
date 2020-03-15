@@ -5,6 +5,10 @@ Dark theme:
 
 ![Dark theme example](https://github.com/DenisShelema/MKS-TFT3.5-light-and-dark-themes/blob/master/mks_pic_dark/screenshots/screen_dark_0.png)
 
+Black theme:
+
+![Black theme example](https://github.com/DenisShelema/MKS-TFT3.5-light-and-dark-themes/blob/master/mks_pic_black/screenshots/screen_black_0.png)
+
 Light theme:
 
 ![Light theme example](https://github.com/DenisShelema/MKS-TFT3.5-light-and-dark-themes/blob/master/mks_pic_light/screenshots/screen_light_0.png)
